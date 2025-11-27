@@ -36,7 +36,13 @@ Banco de Dados (SGBD)<br>
       - Cláusulas: IF NOT EXISTS<br>
         Ex.: CREATE DATABASE IF NOT EXISTS escola;<br>
     - ALTER<br>
+      - ALTER TABLE nome_tabela ADD campo TIPO(tamanho) EXTRAS;
+      - ALTER TABLE nome_tabela CHANGE campo campo TIPO(tamanho) EXTRAS;
+      - ALTER TABLE nome_tabela DROP campo;
+      - Clausulas: FIRST, AFTER
     - DROP<br>
+      - DROP TABLE nome_tabela;
+      - DROP DATABASE nome_database;
   - DML(Linguagem de Manipulação de Dados)<br>
     - INSERT<br>
     - UPDATE<br>

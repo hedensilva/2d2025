@@ -52,6 +52,13 @@ Banco de Dados (SGBD)<br>
        - UPDATE nome_tabela SET telefone = '(85)998282926';
        - UPDATE cliente SET telefone = '(85)998282926' WHERE id = 15;
     - SELECT<br>
+       - SELECT * FROM nome_tabela;
+       - SELECT nome FROM cliente;
+       - SELECT * FROM cliente WHERE cidade = 'São Gonçalo do Amarante';
+       - Clausulas: ORDER BY, ASC, DESC, GROUP BY, HAVING, LIKE
+       - Funções de agregação: SUM, COUNT, MAX, MIN, AVG
+       - INNER JOIN, ON
+       - SELECT * FROM cliente WHERE nome LIKE 'R%t_a';
     - DELETE<br>
        - DELETE FROM nome_tabela;
        - DELETE FROM cliente WHERE nome = 'Maria Mendes';

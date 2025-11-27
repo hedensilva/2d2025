@@ -45,7 +45,14 @@ Banco de Dados (SGBD)<br>
       - DROP DATABASE nome_database;
   - DML(Linguagem de Manipulação de Dados)<br>
     - INSERT<br>
+       - INSERT INTO nome_tabela(campo1,campo2,campoN) VALUES(valor1,valor2,valorN);
+       - INSERT INTO nome_tabela VALUES(valor1,valor2,valorN);
+       - INSERT INTO nome_tabela VALUES(valo1),(valo1A),(valor1N);
     - UPDATE<br>
+       - UPDATE nome_tabela SET telefone = '(85)998282926';
+       - UPDATE cliente SET telefone = '(85)998282926' WHERE id = 15;
     - SELECT<br>
     - DELETE<br>
+       - DELETE FROM nome_tabela;
+       - DELETE FROM cliente WHERE nome = 'Maria Mendes';
 </p>

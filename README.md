@@ -63,3 +63,7 @@ Banco de Dados (SGBD)<br>
        - DELETE FROM nome_tabela;
        - DELETE FROM cliente WHERE nome = 'Maria Mendes';
 </p>
+<p>
+   Apostila - Banco de Dados<br>
+   https://drive.google.com/file/d/1Jd06KGYW-AjdvA8NvEobQBiUkTFR9nAN/view?usp=sharing
+</p>

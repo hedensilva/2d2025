@@ -67,3 +67,7 @@ Banco de Dados (SGBD)<br>
    Apostila - Banco de Dados<br>
    https://drive.google.com/file/d/1Jd06KGYW-AjdvA8NvEobQBiUkTFR9nAN/view?usp=sharing
 </p>
+<p>
+   Questionário Revisão - Banco de Dados - MER<br>
+   https://drive.google.com/file/d/11QvRpERh3OJQyOuer9oiWI-nkhkPfZuP/view?usp=sharing
+</p>
